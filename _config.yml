@@ -29,8 +29,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "1555 Woodridge Ave., Ann Arbor, MI"
   employer         : |
-    Toyota Research Institute
-    of North America
+                      "Toyota Research Institute"
+                      "of North America"
   uri              : # URL
   email            : "none@example.org" 
 
