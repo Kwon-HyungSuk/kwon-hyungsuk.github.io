@@ -1,7 +1,7 @@
 ---
 title: "Metamaterial-Enhanced Ultrasound Energy Harvester"
-collection: research
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: research
 # header:
 #   teaser: /images/research/Meta-UEH.png
 #   image: /images/research/Meta-UEH.png
