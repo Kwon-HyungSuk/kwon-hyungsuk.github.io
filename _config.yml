@@ -27,10 +27,10 @@ author:
   name             : "Hyung-Suk Kwon"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "1555 Woodridge Ave., Ann Arbor, MI"
-  employer         : "Toyota Research Institute of North America"
+  location         : "Ann Arbor, MI, USA"
+  employer         : "Toyota (TRI-NA)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kwonhs@umich.edu" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=XhRx_uMAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8843-8354"
+  orcid            : "https://orcid.org/0000-0001-8843-8354"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
