@@ -1,6 +1,9 @@
 ---
 title: "Metamaterial-Enhanced Ultrasound Energy Harvester"
 collection: research
+header:
+#   teaser: /images/research/Meta-UEH.png
+  image: /images/research/Meta-UEH.png
 type: ""
 permalink: /research/2026_Meta-UEH
 venue: "Journal Name"
