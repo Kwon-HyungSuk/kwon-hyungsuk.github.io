@@ -1,7 +1,7 @@
 ---
 title: "Metamaterial-Enhanced Ultrasound Energy Harvester"
 collection: research
-excerpt: "Short description of this project. <img src='/images/research/Meta-UEH.png'>"
+excerpt: "Short description of this project. <img src='/images/500x300.png'>"
 # header:
 #   teaser: /images/research/Meta-UEH.png
 #   image: /images/research/Meta-UEH.png
@@ -16,7 +16,7 @@ This is a description of a research experience. You can use markdown like any ot
 
 Heading 1
 ======
-<img src='/images/research/Meta-UEH.png'>
+<img src='/images/500x300.png'>
 Heading 2
 ======
 
