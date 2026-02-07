@@ -10,7 +10,7 @@ location: "University of Michigan"
 
 This is a description of a research experience. You can use markdown like any other post.
 
-<img src='/images/research/Modular-CNN.pdf'>
+<img src='/images/research/Modular-CNN.png'>
 
 [[Publication]](https://ieeexplore.ieee.org/abstract/document/11153442)
 
