@@ -1,6 +1,20 @@
 ---
-title: "Test Research Project"
-collection: research
-excerpt: "This is a test research entry."
-date: 2025-01-01
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /research/2025-test-project
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
