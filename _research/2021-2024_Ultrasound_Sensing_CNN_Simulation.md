@@ -1,5 +1,5 @@
 ---
-title: "Modular CNN for Adaptive Ultrasound Sensing"
+title: "Modular CNN for Adaptive Ultrasound Sensing (complete)"
 collection: research
 type: ""
 permalink: /research/2025_CNN-Ultrasound_Sensing
