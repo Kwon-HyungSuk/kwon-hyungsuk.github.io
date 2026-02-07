@@ -13,7 +13,7 @@ This is a description of a research experience. You can use markdown like any ot
 
 <img src='/images/research/Meta-UEH.png'>
 
-<!-- [[Publication]](https://ieeexplore.ieee.org/abstract/document/11153442) -->
+<!-- [[Publication]](https://ieeexplore.ieee.org/abstract/document/11153442){:target="_blank" rel="noopener"} -->
 
 
 <!-- Heading 1
