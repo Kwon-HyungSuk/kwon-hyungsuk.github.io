@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: research
 type: "Undergraduate course"
 permalink: /research/2025-test-project
 venue: "University 1, Department"
