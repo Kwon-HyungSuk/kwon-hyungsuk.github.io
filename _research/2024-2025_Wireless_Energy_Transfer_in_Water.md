@@ -16,7 +16,7 @@ This is a description of a research experience. You can use markdown like any ot
 
 Heading 1
 ======
-
+<img src='/images/research/Meta-UEH.png'>
 Heading 2
 ======
 
