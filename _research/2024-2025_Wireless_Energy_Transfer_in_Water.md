@@ -9,9 +9,9 @@ date: 2026-01-01
 location: "Toyota Research Institute of North America"
 ---
 
-<img src='/images/500x300.png'>
-
 This is a description of a research experience. You can use markdown like any other post.
+
+<img src='/images/500x300.png'>
 
 Heading 1
 ======
