@@ -18,22 +18,17 @@ Education
 
 Work experience
 ======
-* 2023 - present: Research Scientist
-  * Toyota Research Institute of North America
+* Toyota Research Institute of North America (2023 - present)
+  - Research Scientist
 
-* 2017 - 2023: Graduate Research Assistant
-  * University of Michigan (Advisor: Prof. Bogdan-Ioan Popa)
+* University of Michigan (2017 - 2023)
+  - Graduate Research Assistant
 
-* 2013 - 2016: F-16 Stress Analyst
-  * Republic of Korea Air Force
+* Republic of Korea Air Force (2013 - 2016)
+  - F-16 Stress Analyst
 
-* Jul - Aug 2012: Undergraduate Research Intern
-  * Imperial College London (Advisor: Dr. Tom Reddyhoff)
-  
-Research interest
-======
-* Vision-ultrasound multimodal perception for autonomous robot navigation in low visibility environments
-* Piezoelectric transducer design for underwater ultrasound power transfer and communication
+* Imperial College London (Jul - Aug 2012)
+  - Undergraduate Research Intern
 
 Publications
 ======
