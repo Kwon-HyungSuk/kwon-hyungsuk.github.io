@@ -1,11 +1,11 @@
 ---
-title: "Metamaterial-Enhanced Ultrasound Energy Harvester"
+title: "Metamaterial-Enhanced Ultrasound Energy Harvester (complete)"
 collection: research
 # excerpt: "Short description of this project for teaser. <img src='/images/500x300.png'>"
 type: ""
 permalink: /research/2026_Meta-UEH
 venue: "Advanced Materials"
-date: 2026-01-01
+date: 2026-03-01
 location: "Toyota Research Institute of North America"
 ---
 
