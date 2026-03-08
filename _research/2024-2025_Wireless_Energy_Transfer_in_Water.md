@@ -1,7 +1,7 @@
 ---
 title: "Metamaterial-Enhanced Ultrasound Energy Harvester (complete)"
 collection: research
-# excerpt: "Short description of this project for teaser. <img src='/images/500x300.png'>"
+excerpt: "Short description of this project for teaser. <img src='/images/research/Meta-UEH.png'>"
 type: ""
 permalink: /research/2026_Meta-UEH
 venue: "Advanced Materials"
