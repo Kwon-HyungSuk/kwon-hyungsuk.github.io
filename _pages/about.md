@@ -14,7 +14,7 @@ Education
 * M.S. in Mechanical Engineering, University of Michigan, 2018
 * B.S. in Mechanical Engineering, Korea University, 2013
 
-Work experience
+Experience
 ======
 * [2023 - present] Research Scientist @ Toyota Research Institute of North America
 
