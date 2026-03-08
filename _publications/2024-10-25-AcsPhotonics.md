@@ -9,7 +9,7 @@ venue: 'ACS Photonics'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsphotonics.4c01379'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Z. Yu*, X. Li, HS Kwon, T. Lee, and H. Iizuka, <i>ACS Photonics</i>, vol. 11, no. 11, pp. 4865-4872, 2024'
+citation: 'Z. Yu*, X. Li, <b>HS Kwon</b>, T. Lee, and H. Iizuka, <i><u>ACS Photonics</u></i>, vol. 11, no. 11, pp. 4865-4872, 2024'
 #  &quot;Broadband sound barriers with bianisotropic metasurfaces,&quot;
 ---
 Abstract: Reversing near-field thermal radiation between a rotating pair of hot and cold dipolar objects has recently been theoretically reported at low temperature. We demonstrate that such a reversal between two indium antimonide (InSb) nanoparticles occurs at lower rotation frequency at room temperature under an external magnetic field. Additionally, a nearby InSb substrate significantly relaxes the requirement of high rotation by acting as a heat sink and exciting surface modes that couple with particle resonances, both of which are tuned by the magnetic field. Our results provide a critical understanding about reversing near-field heat transfer between nanostructures with reduced rotation frequency, pointing to the possibility of experimental observation of heat reversal around room temperature.
