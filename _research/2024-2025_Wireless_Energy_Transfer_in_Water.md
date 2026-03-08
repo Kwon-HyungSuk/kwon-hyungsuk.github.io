@@ -1,7 +1,7 @@
 ---
-title: "Metamaterial-Enhanced Ultrasound Energy Harvester (complete)"
+title: "Metamaterial-Enhanced Ultrasound Energy Harvester (2024/1 - 2025/12)"
 collection: research
-excerpt: "Short description of this project for teaser. <img src='/images/research/Meta-UEH.png'>"
+excerpt: "A flexible ultrasound energy harvester was developed for medical and underwater applications. Its performance was enhanced using a sound-focusing metamaterial composed of air cavities, making the device flexible and lightweight. The results were published in <i>Advanced Materials</i> (2026). <img src='/images/research/Meta-UEH.png'>"
 type: ""
 permalink: /research/2026_Meta-UEH
 venue: "Advanced Materials"
