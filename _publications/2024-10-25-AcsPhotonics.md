@@ -7,7 +7,7 @@ permalink: /publication/2024-10-25-AcsPhotonics
 date: 2024-10-25
 venue: 'ACS Photonics'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.nature.com/articles/s43246-022-00276-w'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsphotonics.4c01379'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Z. Yu*, X. Li, HS Kwon, T. Lee, and H. Iizuka, <i>ACS Photonics</i>, vol. 11, no. 11, pp. 4865-4872, 2024'
 #  &quot;Broadband sound barriers with bianisotropic metasurfaces,&quot;
