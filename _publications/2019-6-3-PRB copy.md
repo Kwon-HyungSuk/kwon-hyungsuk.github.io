@@ -1,0 +1,15 @@
+---
+title: "Design and experimental demonstration of broadband acoustic pressure enhancing passive metafluids"
+collection: publications
+category: manuscripts
+permalink: /publication/2019-6-20-JASA
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2019-6-20
+venue: 'The Journal of the Acoustical Society of America'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://pubs.aip.org/asa/jasa/article-abstract/145/6/3633/940689/Design-and-experimental-demonstration-of-broadband?redirectedFrom=fulltext'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'HS Kwon, and B.-I. Popa*, <i>The Journal of the Acoustical Society of America</i>, vol. 145, no. 6, pp. 3633-3639, 2019'
+#  &quot;Broadband sound barriers with bianisotropic metasurfaces,&quot;
+---
+Abstract: This paper presents the design and experimental demonstration of a passive broadband acoustic pressure enhancing metafluid in air. The design is optimized for fabrication via three-dimensional (3D) printing and takes advantage of the property of acoustic pressure to enhance sound as the sound passes with minimal insertion loss from the background medium into a high impedance fluid. Numerical simulations and experimental measurements of the fabricated structure show that the metafluid enhances the sound pressure level by 7 dB in more than one octave without introducing sound distortions. Moreover, the metafluid is subwavelength in size and does not increase the aperture of the sensor. These results provide an excellent path toward improving the sensitivity of compact acoustic sensors without employing active elements.
