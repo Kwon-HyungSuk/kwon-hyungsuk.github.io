@@ -7,7 +7,7 @@ permalink: /publication/2022-11-7-FrontPhy
 date: 2022-11-7
 venue: 'Frontiers in Physics'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.nature.com/articles/s43246-022-00276-w'
+paperurl: 'https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2022.1021887/full'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Y. Cheong, HS Kwon, and B.-I. Popa*, <i>Frontiers in Physics</i>, vol. 10, p. 1138, 2022'
 #  &quot;Broadband sound barriers with bianisotropic metasurfaces,&quot;
