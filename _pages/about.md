@@ -20,7 +20,7 @@ Experience
 
 * [2017 - 2023] Graduate Research Assistant @ University of Michigan
 
-* [2013 - 2016] F-16 Stress Analyst @ Republic of Korea Air Force
+* [2013 - 2016] F-16 Stress Analyst (1st Lt) @ Republic of Korea Air Force
 
 * [Jul - Aug 2012] Undergraduate Research Intern @ Imperial College London
 
