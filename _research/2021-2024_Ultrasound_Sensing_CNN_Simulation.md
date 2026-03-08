@@ -14,6 +14,7 @@ This is a description of a research experience. You can use markdown like any ot
 <img src='/images/research/Modular-CNN.png'>
 
 [[Publication]](https://ieeexplore.ieee.org/abstract/document/11153442){:target="_blank" rel="noopener"}
+<b>HS Kwon</b>, G. U. Patil, B. I. Epureanu, and B.-I. Popa*, <i><u>IEEE Access</u></i>, vol. 13, pp. 156811-156823, 2025
 
 <!-- Heading 1
 ======
