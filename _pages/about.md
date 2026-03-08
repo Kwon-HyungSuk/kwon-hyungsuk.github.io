@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, University of Michigan, 2023
+* Ph.D. in Mechanical Engineering, University of Michigan, 2023
 * M.S. in Electrical and Computer Engineering, University of Michigan, 2022
 * M.S. in Mechanical Engineering, University of Michigan, 2018
 * B.S. in Mechanical Engineering, Korea University, 2013
