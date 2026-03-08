@@ -2,9 +2,9 @@
 title: "Mechanical Spin Waves in a Nonlocal Discrete Magnetoelastic Lattice with Negative Group Velocity"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-8-1-AdvPhyResearch
+permalink: /publication/2025-8-11-AdvPhyResearch
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-8-1
+date: 2025-8-11
 venue: 'Advanced Physics Research'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/apxr.202400197'
