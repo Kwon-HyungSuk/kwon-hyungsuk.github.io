@@ -1,0 +1,15 @@
+---
+title: "Surface acoustic wave direction sensing enabled by resonant mode interference in a single micropillar resonator"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-5-6-PRB
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2025-5-6
+venue: 'ACS Photonics'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174101'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'T. Lee*, HS Kwon, X. Li, Z. Yu, T. Kimura, Y. Tadokoro, and H. Iizuka, <i>Physical Review B</i>, vol. 111, no. 17, p. 174101, 2025'
+#  &quot;Broadband sound barriers with bianisotropic metasurfaces,&quot;
+---
+Abstract: We demonstrate the direction sensing of surface acoustic waves (SAWs) using a single subwavelength micropillar resonator by monitoring its displacements at multiple points on its top surface. Our findings reveal that the displacements of the micropillar depend on the direction of the SAWs. This directional dependence originates from interference of bending and longitudinal resonant modes. These modes are excited by SAWs through a rotational displacement field, where the vertical component induces longitudinal resonance and the horizontal component induces bending resonance. By selecting the appropriate micropillar geometry, the frequencies of these two modes can be aligned, enabling effective mode interference. This study enhances the fundamental understanding of the interaction between SAWs and resonators, offering a practical approach for monitoring SAWs in compact electronic systems.
