@@ -16,13 +16,13 @@ Education
 
 Experience
 ======
-* [2023 - present] Research Scientist @ Toyota Research Institute of North America, Ann Arbor, MI
+* [2023 - present] Research Scientist @ Toyota Research Institute of North America
 
-* [2017 - 2023] Graduate Research Assistant @ University of Michigan, Ann Arbor, MI
+* [2017 - 2023] Graduate Research Assistant @ University of Michigan
 
-* [2013 - 2016] F-16 Stress Analyst @ Republic of Korea Air Force, Daegu, Korea
+* [2013 - 2016] F-16 Stress Analyst @ Republic of Korea Air Force
 
-* [Jul - Aug 2012] Undergraduate Research Intern @ Imperial College London, London, UK
+* [Jul - Aug 2012] Undergraduate Research Intern @ Imperial College London
 
 Publications
 ======
