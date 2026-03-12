@@ -17,4 +17,31 @@ A modular convolutional neural network (CNN) was developed for object identifica
 Figure 1
 ======
 <img src='/images/research/Modular-CNN/Modular-CNN_1.jpg'>
-Design optimization and simulation of metamaterial enhanced ultrasound energy harvester (Meta-UEH). (a) A schematic illustration of UPT from a transducer to a Meta-UEH in water. The inset shows the metamaterial focusing the incoming acoustic energy onto the PZT. (b) Top: The cross-section of the proposed Meta-UEH showing its components. The outlines of the components on the cross-section are highlighted with red lines. Bottom: An engineering drawing of the Meta-UEH. The inner radius and width of the ring structure were optimized for maximum energy harvesting performance. (c) The impedance of baseline UEH. Solid lines represent the measured impedance of the fabricated baseline UEH shown in the inset. Dashed black and gray lines are the simulated impedance of a baseline UEH model, and the red line marks the resonance frequency. (d) The simulation model used to obtain the impedance presented as dashed lines in Figure 1c. (e) Top: Simulation model of the baseline UEH under a plane wave. Bottom: Simulation model of the Meta-UEH under a plane wave. Only one-third of the models are illustrated to show the cross-section. (f) Simulated performance of the baseline UEH with a 200 Ω load and the optimized Meta-UEH with a 2 kΩ load.
+
+Figure 2
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_2.jpg'>
+
+Figure 3
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_3.jpg'>
+
+Figure 4
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_4.jpg'>
+
+Figure 5
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_5.jpg'>
+
+Figure 6
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_6.jpg'>
+
+Figure 7
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_7.jpg'>
+
+Figure 8
+======
+<img src='/images/research/Modular-CNN/Modular-CNN_8.jpg'>
