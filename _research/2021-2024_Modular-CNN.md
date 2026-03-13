@@ -1,7 +1,7 @@
 ---
 title: "Modular CNN for Adaptive Ultrasound Sensing (2021/1 - 2023/11)"
 collection: research
-excerpt: "A modular convolutional neural network (CNN) was developed for object identification and localization through echo analysis. The model achieved excellent performance even when echoes from multiple objects interfered with each other. Additionally, the architecture can be easily expanded to incorporate new object classes after training. The results were published in <i>IEEE Access</i> (2025). <img src='/images/research/Modular-CNN/Modular-CNN_0.jpg'>"
+excerpt: "A modular convolutional neural network (CNN) was developed for object identification and localization through echo analysis. The model achieved excellent performance even when echoes from multiple objects interfered with each other. Additionally, the architecture can be easily expanded to incorporate new object classes after training. The results were published in <i>IEEE Access</i> (2025). <img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_0.jpg'>"
 type: ""
 permalink: /research/2025_CNN-Ultrasound_Sensing
 # venue: "IEEE Access"
@@ -16,40 +16,40 @@ A modular convolutional neural network (CNN) was developed for object identifica
 
 Figure 1
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_1.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_1.jpg'>
 Echolocation-like perception system in which broadband ultrasound pulses are emitted towards the environment, and the backscattered sound (echoes) are processed in parallel by CNNs specialized to identify and locate the objects producing the received echoes.
 
 Figure 2
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_2.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_2.jpg'>
 Ultrasound echo simulation framework. (a) The normalized acoustic pressure field of the incident ultrasound beam on the plane of the source (<i>yz</i>) and on a plane perpendicular to the source aperture (<i>xy</i>). The inset shows bearing (<i>Φ</i>) and elevation (<i>ψ</i>) angles. (b) Normalized acoustic scattered fields from a sphere at different time instances. The primary reflection and secondary spherical wave are marked in the bottom right subplot as A and B, respectively. (c) Example echoes from each object class for various object positions and beam directions that are chosen to highlight the echo similarity. The amplitudes are normalized to each echo maximum. Scattering features A and B in sphere echo correspond to scattering labels illustrated in (c).
 
 Figure 3
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_3.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_3.jpg'>
 The structures of (a) Identification CNN and (b) Localization CNN. (c) Structure of the residual layer used in the SCNNs.
 
 Figure 4
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_4.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_4.jpg'>
 A diagram of the localization SCNN showing the model hyperparameters and output dimensions at each layer. Time of Flight refers to the time an echo takes to make a round trip between the transducer/receiver and the target. <i>w_n</i> represents weights in the fully connected layer.
 
 Figure 5
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_5.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_5.jpg'>
 Performance of the trained CNNs on the test dataset for (a) identification and (b) localization of isolated objects.
 
 Figure 6
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_6.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_6.jpg'>
 Identification and localization performance of SCNNs on echoes from closely-spaced objects. (a) A sphere and a cube 6 cm apart are located around (0,0). Numerical labels mark the positions where reflections are simulated. (b) Echoes (black) received at the six positions and the identification predictions from each SCNN (colored). Blue, green, and red lines represent scores from the sphere, cylinder, and cube I-SCNN, respectively. Also, blue arrows indicate echoes from the sphere, and red arrows indicate echoes from the cube. (c) Localization results. The black circle and square represent the true locations of the sphere and cube, respectively. Predicted locations of the sphere (blue) and cube (red) are indicated by cross markers, with each number corresponding to the echo used for the prediction. The thick blue circle and red square are the final predictions obtained by averaging all predictions.
 
 Figure 7
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_7.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_7.jpg'>
 (a) Normalized echoes in the test dataset for the sphere (left), cylinder (center), and cube (right), (b) Activation after the last convolutional layer for sphere (left), cylinder (center), and cube (right) I-SCNN, (c) Trained weights of the fully connected layers, (d) Class activation map (CAM) obtained as element-wise multiplication of activations in (b) with weights in (c).
 
 Figure 8
 ======
-<img src='/images/research/Modular-CNN/Modular-CNN_8.jpg'>
+<img src='/images/research/2021-2024_Modular-CNN/Modular-CNN_8.jpg'>
 Ultrasound perception system performance at the output of the IDL after adding a new pyramid I-SCNN.
