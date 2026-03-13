@@ -22,7 +22,7 @@ Echolocation-like perception system in which broadband ultrasound pulses are emi
 Figure 2
 ======
 <img src='/images/research/Modular-CNN/Modular-CNN_2.jpg'>
-Ultrasound echo simulation framework. (a) The normalized acoustic pressure field of the incident ultrasound beam on the plane of the source (<i>yz</i>) and on a plane perpendicular to the source aperture (<i>xy</i>). The inset shows bearing (<i>φ</i>) and elevation (<i>ψ</i>) angles. (b) Normalized acoustic scattered fields from a sphere at different time instances. The primary reflection and secondary spherical wave are marked in the bottom right subplot as A and B, respectively. (c) Example echoes from each object class for various object positions and beam directions that are chosen to highlight the echo similarity. The amplitudes are normalized to each echo maximum. Scattering features A and B in sphere echo correspond to scattering labels illustrated in (c).
+Ultrasound echo simulation framework. (a) The normalized acoustic pressure field of the incident ultrasound beam on the plane of the source (<i>yz</i>) and on a plane perpendicular to the source aperture (<i>xy</i>). The inset shows bearing (<i>Φ</i>) and elevation (<i>ψ</i>) angles. (b) Normalized acoustic scattered fields from a sphere at different time instances. The primary reflection and secondary spherical wave are marked in the bottom right subplot as A and B, respectively. (c) Example echoes from each object class for various object positions and beam directions that are chosen to highlight the echo similarity. The amplitudes are normalized to each echo maximum. Scattering features A and B in sphere echo correspond to scattering labels illustrated in (c).
 
 Figure 3
 ======
