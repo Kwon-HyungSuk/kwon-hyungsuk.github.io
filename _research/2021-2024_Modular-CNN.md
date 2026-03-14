@@ -9,7 +9,7 @@ permalink: /research-details/CNN-Ultrasound_Sensing
 location: "University of Michigan"
 ---
 
-HS Kwon, G. U. Patil, B. I. Epureanu, and B.-I. Popa*, <i><u>IEEE Access</u></i>, vol. 13, pp. 156811-156823, 2025
+HS Kwon, G. U. Patil, B. I. Epureanu, and B.-I. Popa\*, <i><u>IEEE Access</u></i>, vol. 13, pp. 156811-156823, 2025
 [[Publication]](https://ieeexplore.ieee.org/abstract/document/11153442){:target="_blank" rel="noopener"}
 
 A modular convolutional neural network (CNN) was developed for object identification and localization through echo analysis. Figure 1 shows the decision making process of the modular CNN, which consists of multiple small CNNs, each specialized in identifying and localizing a specific object by analyzing reflected echoes. Figure 6 shows identification (center) and localization (right) performance for a sphere and a cube positioned close to each other. Predictions based on echoes arriving at six sensing locations demonstrate good accuracy, validating the effectiveness of the specialized CNN approach.
