@@ -35,7 +35,7 @@ Technical Skills
 
 * Programming & Data Analysis: MATLAB (signal processing, instrument control), Python (PyTorch for machine learning)
 
-Examples: synchronization of function generator, oscilloscope, and stepper motor for automated acoustic field scanning; 2D Fourier transform of acoustic fields for wave component extraction; COMSOL LiveLink for acoustic metamaterial design optimization; piezoelectric material characterization with impedance analyzers
+  (Examples: synchronization of function generator, oscilloscope, and stepper motor for automated acoustic field scanning; 2D Fourier transform of acoustic fields for wave component extraction; COMSOL LiveLink for acoustic metamaterial design optimization; piezoelectric material characterization with impedance analyzers)
 
 Publications
 ======
