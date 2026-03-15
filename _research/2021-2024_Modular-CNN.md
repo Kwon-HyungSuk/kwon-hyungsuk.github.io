@@ -3,7 +3,7 @@ title: "Modular CNN for Adaptive Ultrasound Sensing (2021/1 - 2023/11)"
 collection: research
 excerpt: "A modular convolutional neural network (CNN) was developed for object identification and localization through echo analysis. The model achieved excellent performance even when echoes from multiple objects interfered with each other. Additionally, the architecture can be easily expanded to incorporate new object classes after training. The results were published in <i>IEEE Access</i> (2025). <img src='/images/research/2021-2024_Modular-CNN/figure0.jpg'>"
 type: ""
-permalink: /research-details/CNN-Ultrasound_Sensing
+permalink: /research_CNN-Ultrasound_Sensing
 # venue: "IEEE Access"
 # date: 2025-09-08
 location: "University of Michigan"
