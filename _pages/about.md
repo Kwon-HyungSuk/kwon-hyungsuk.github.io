@@ -33,7 +33,7 @@ Technical Skills
 
 * Simulation: COMSOL Multiphysics (frequency-domain acoustics and electromechanical simulations), k-Wave (time-domain acoustic simulations)
 
-* Programming & Data Analysis: MATLAB (signal processing, instrument control), Python (PyTorch for machine learning)
+* Programming & Data Analysis: MATLAB (Signal Processing Toolbox, Instrument Control Toolbox), Python (PyTorch for machine learning)
 
   (Examples: synchronization of function generator, oscilloscope, and stepper motor for automated acoustic field scanning; 2D Fourier transform of acoustic fields for wave component extraction; COMSOL LiveLink for acoustic metamaterial design optimization; piezoelectric material characterization with impedance analyzers)
 
