@@ -2,10 +2,10 @@
 title: "ME 424 - Engineering Acoustics"
 collection: teaching
 type: "Graduate Student Instructor"
-# permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Michigan"
 date: Fall 2021
-# location: "City, Country"
+location: "City, Country"
 ---
 
 <a href="files/teaching/ME424_Engineering_Acoustics.pdf" target="_blank">Note</a>.
