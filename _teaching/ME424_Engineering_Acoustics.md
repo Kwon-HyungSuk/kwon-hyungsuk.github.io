@@ -2,7 +2,7 @@
 title: "ME424 Engineering Acoustics"
 collection: teaching
 type: "Graduate Student Instructor"
-permalink: /ME424_Engineering_Acoustics #files/teaching/ME424_Engineering_Acoustics.pdf
+permalink: files/teaching/ME424_Engineering_Acoustics.pdf
 venue: "University of Michigan"
 term: Fall
 date: 2021-09-01
