@@ -4,7 +4,8 @@ collection: teaching
 type: "Graduate Student Instructor"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "University of Michigan"
-date: Fall 2021
+term: Fall
+date: 2021-09-01
 location: "City, Country"
 ---
 
