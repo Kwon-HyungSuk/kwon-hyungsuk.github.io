@@ -1,16 +1,14 @@
 ---
-title: "ME 424 - Engineering Acoustics"
+title: "Teaching experience 1"
 collection: teaching
-type: "Graduate Student Instructor"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Michigan"
-date: Fall 2021
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
 
-<a href="files/teaching/ME424_Engineering_Acoustics.pdf" target="_blank">Note</a>.
-
-<!-- This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
@@ -19,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-====== -->
+======
