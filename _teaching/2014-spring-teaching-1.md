@@ -8,6 +8,8 @@ date: Fall 2021
 # location: "City, Country"
 ---
 
+<a href="files/teaching/ME424_Engineering_Acoustics.pdf" target="_blank">Note</a>.
+
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
