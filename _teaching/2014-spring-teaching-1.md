@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "ME424 Engineering Acoustics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Student Instructor"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Michigan"
 date: 2014-01-01
 location: "City, Country"
 ---
