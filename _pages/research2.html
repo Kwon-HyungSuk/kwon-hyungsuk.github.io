@@ -7,33 +7,102 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .research2-page {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .research2-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+
+  .research2-card {
+    flex: 1 1 0;
+    min-width: 220px;
+    background: #f8f9fa;
+    border: 1px solid #dfe3e8;
+    border-radius: 12px;
+    padding: 1.25rem 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .research2-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  }
+
+  .research2-title {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    cursor: pointer;
+    color: #1a1a1a;
+  }
+
+  .research2-description {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    margin-top: 0;
+    font-size: 0.96rem;
+    line-height: 1.7;
+    color: #444;
+    transition: max-height 0.35s ease, opacity 0.25s ease, margin-top 0.25s ease;
+  }
+
+  .research2-card:hover .research2-description,
+  .research2-card:focus-within .research2-description,
+  .research2-title:hover + .research2-description {
+    max-height: 220px;
+    opacity: 1;
+    margin-top: 0.9rem;
+  }
+
+  @media (max-width: 768px) {
+    .research2-grid {
+      flex-direction: column;
+    }
+  }
+</style>
+
 <div class="research2-page">
-  <section class="research2-section">
-    <h2>Ultrasound Sensing</h2>
-    <p>
-      My work in ultrasound sensing focuses on using acoustic and ultrasonic wave interactions to detect objects,
-      resolve shapes, and infer material properties in complex environments. The research combines wave physics,
-      metamaterial design, and machine learning to improve sensing reliability where conventional optical or
-      electromagnetic approaches are limited.
-    </p>
-  </section>
+  <div class="research2-grid">
+    <article class="research2-card">
+      <h2 class="research2-title">Ultrasound Sensing</h2>
+      <div class="research2-description">
+        My work in ultrasound sensing focuses on using acoustic and ultrasonic wave interactions to detect objects,
+        resolve shapes, and infer material properties in complex environments. The research combines wave physics,
+        metamaterial design, and machine learning to improve sensing reliability where conventional optical or
+        electromagnetic approaches are limited.
+      </div>
+    </article>
 
-  <section class="research2-section">
-    <h2>Ultrasound Energy Transfer</h2>
-    <p>
-      This area explores efficient delivery of mechanical and electrical energy through ultrasonic waves, with
-      emphasis on piezoelectric systems, resonant structures, and acoustic metamaterials. The goal is to enable
-      compact and robust wireless power transfer in challenging settings, including through layered or
-      non-ideal media.
-    </p>
-  </section>
+    <article class="research2-card">
+      <h2 class="research2-title">Ultrasound Energy Transfer</h2>
+      <div class="research2-description">
+        This area explores efficient delivery of mechanical and electrical energy through ultrasonic waves, with
+        emphasis on piezoelectric systems, resonant structures, and acoustic metamaterials. The goal is to enable
+        compact and robust wireless power transfer in challenging settings, including through layered or
+        non-ideal media.
+      </div>
+    </article>
 
-  <section class="research2-section">
-    <h2>Underwater Acoustics</h2>
-    <p>
-      Underwater acoustics addresses how acoustic signals propagate, scatter, and interact in marine environments.
-      My research in this direction aims to develop acoustic methods for communication, sensing, and energy
-      transfer in underwater systems where electromagnetic signals are ineffective or impractical.
-    </p>
-  </section>
+    <article class="research2-card">
+      <h2 class="research2-title">Underwater Acoustics</h2>
+      <div class="research2-description">
+        Underwater acoustics addresses how acoustic signals propagate, scatter, and interact in marine environments.
+        My research in this direction aims to develop acoustic methods for communication, sensing, and energy
+        transfer in underwater systems where electromagnetic signals are ineffective or impractical.
+      </div>
+    </article>
+  </div>
 </div>
