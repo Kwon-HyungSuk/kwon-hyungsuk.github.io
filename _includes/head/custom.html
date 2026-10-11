@@ -14,4 +14,12 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<script>
+	try {
+		localStorage.setItem("theme", "light");
+	} catch (error) {
+		document.documentElement.removeAttribute("data-theme");
+	}
+</script>
+
 <!-- end custom head snippets -->
