@@ -1,12 +1,147 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /research2/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
-  {% include archive-single-research.html %}
-{% endfor %}
+<style>
+  .research2-page {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .research2-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  .research2-card {
+    background: #ffffff;
+    border: 1px solid #dfe3e8;
+    border-radius: 8px;
+    padding: 0 1.25rem;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.05);
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    overflow: hidden;
+  }
+
+  .research2-card:hover {
+    box-shadow: 0 5px 16px rgba(15, 23, 42, 0.09);
+    border-color: #c8d0da;
+  }
+
+  .research2-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 0;
+    padding: 1.1rem 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.4;
+    cursor: pointer;
+    color: #1d2736;
+    transition: color 0.2s ease;
+    list-style: none;
+  }
+
+  .research2-title::-webkit-details-marker {
+    display: none;
+  }
+
+  .research2-title::after {
+    content: "+";
+    flex: 0 0 auto;
+    color: #0b5ed7;
+    font-size: 1.35rem;
+    font-weight: 400;
+    line-height: 1;
+  }
+
+  .research2-card[open] .research2-title::after {
+    content: "−";
+  }
+
+  .research2-title:hover,
+  .research2-title:focus-visible {
+    color: #0b5ed7;
+  }
+
+  .research2-description {
+    margin: 0;
+    padding: 0 0 1.25rem;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #475569;
+    text-align: left;
+  }
+
+  .research2-image {
+    display: block;
+    width: 100%;
+    max-height: 520px;
+    margin-top: 1rem;
+    object-fit: contain;
+    object-position: left center;
+  }
+
+  .research2-card[open] .research2-description {
+    border-top: 1px solid #e8ebef;
+    padding-top: 1rem;
+  }
+
+  .research2-project-title {
+    margin: 1.25rem 0 0.5rem;
+    font-size: 1.2rem;
+    line-height: 1.4;
+  }
+
+  .research2-project-title a {
+    color: #1d2736;
+  }
+
+  .research2-project-title a:hover,
+  .research2-project-title a:focus-visible {
+    color: #0b5ed7;
+  }
+
+  .research2-project-excerpt {
+    margin: 0;
+  }
+</style>
+
+<div class="research2-page">
+  <div class="research2-grid">
+    <details class="research2-card">
+      <summary class="research2-title">Ultrasound Energy Transfer</summary>
+      <div class="research2-description">
+        <img class="research2-image" src="{{ base_path }}/images/research/Ultrasound_Energy_Transfer.jpg" alt="Ultrasound energy transfer research illustration showing acoustic energy transmitted through a medium to a receiver">
+        <h3 class="research2-project-title">
+          <a href="{{ base_path }}/research_Meta-UEH">Metamaterial for Ultrasound Energy Transfer (2024/1 - 2025/12)</a>
+        </h3>
+      </div>
+    </details>
+
+    <details class="research2-card">
+      <summary class="research2-title">Ultrasound Sensing</summary>
+      <div class="research2-description">
+        <img class="research2-image" src="{{ base_path }}/images/research/Ultrasound_Sensing.jpg" alt="Ultrasound sensing research illustration showing beam steering, echolocation, waveforms, and machine-learning classification">
+        <h3 class="research2-project-title">
+          <a href="{{ base_path }}/research_CNN-Ultrasound_Sensing">Modular CNN for Adaptive Ultrasound Sensing (2021/1 - 2023/11)</a>
+        </h3>
+        <h3 class="research2-project-title">
+          <a href="{{ base_path }}/research_Meta-Lens">Ultrasound Beam Steering Metamaterial Lens (2019/1 - 2020/12)</a>
+        </h3>
+        <h3 class="research2-project-title">
+          <a href="{{ base_path }}/research_PEPM">Pressure Enhancing Passive Metafluid (2017/5 - 2018/12)</a>
+        </h3>
+      </div>
+    </details>
+  </div>
+</div>
