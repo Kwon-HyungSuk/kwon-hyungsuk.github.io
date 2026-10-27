@@ -9,4 +9,4 @@ permalink: /research_Water-Air_Communication
 location: "Toyota Research Institute of North America"
 ---
 
-HS Kwon\*, Z. Yu, X. Lee, E. M. Dede, and T. Lee\* (Under Review)
+HS Kwon\*, Z. Yu, X. Li, E. M. Dede, and T. Lee\* (Under Review)
